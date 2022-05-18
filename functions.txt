@@ -1,2 +1,1 @@
 This is initial commit
-This is feature-f2
